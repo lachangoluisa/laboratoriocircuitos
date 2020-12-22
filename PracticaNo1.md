@@ -81,15 +81,15 @@ Tabla 5.1: Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 |VARIABLE|VALOR CALCULADO| VALOR MEDIDO|
 |---|---|---|
-|VR1(V)| 2.05|2.054|
+|VR1(V)| 2.05|2.46|
 |IR1(mA)| 2.05|2.05|
-|VR2(V)|4.22|4.247|
+|VR2(V)|4.22|4.25|
 |IR2(mA)|1.08|1.08|
 |VR3(V)|2.09|2.12|
 |IR3(mA)|0.95|0.965|
 |VR4(V)|2.09|2.12|
 |IR4(mA)|0.95|0.965|
-|VR5(V)|3.69|3.69|
+|VR5(V)|3.69|3,70|
 |IR5(mA)|2.05|2.054|
 
 5.3 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 5.2.
