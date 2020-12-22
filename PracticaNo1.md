@@ -57,7 +57,7 @@ Pasos para resolver un circuito
 3.-DIAGRAMAS
 
 ![diagrama](https://user-images.githubusercontent.com/76057459/102248205-ed477380-3ece-11eb-9a08-bca356ad8b4e.PNG)
-
+![WhatsApp Image 2020-12-22 at 12 04 03 PM](https://user-images.githubusercontent.com/76057459/102918250-9274c580-4454-11eb-908c-4d063822225d.jpeg)
 Diagrama 3.1: Circuito Resistivo mixto
 
 4.-LISTA DE COMPONENTES
@@ -191,4 +191,9 @@ Ayllón Fandiño, E. (1987): Fundamentos de la teoría de los circuitos eléctri
 10.-ANEXOS
 
 ![circuito](https://user-images.githubusercontent.com/76057459/102247810-701bfe80-3ece-11eb-80a9-50a662b43d18.jpg)
-Imagen 1:Circuito elaborado en tinkercat.
+Imagen 1:Circuito elaborado en tinkercat
+![WhatsApp Image 2020-12-22 at 12 32 16 PM](https://user-images.githubusercontent.com/76057459/102918170-72450680-4454-11eb-8cc1-d1c79ea46138.jpeg)
+![WhatsApp Image 2020-12-22 at 12 28 11 PM](https://user-images.githubusercontent.com/76057459/102918190-7a9d4180-4454-11eb-982e-fdf07dc9c1b6.jpeg)
+![WhatsApp Image 2020-12-22 at 12 27 00 PM](https://user-images.githubusercontent.com/76057459/102918218-82f57c80-4454-11eb-8b81-b2c7cd3fb2ff.jpeg)
+![WhatsApp Image 2020-12-22 at 12 26 05 PM](https://user-images.githubusercontent.com/76057459/102918231-8852c700-4454-11eb-8d2d-f43e1f64640e.jpeg)
+![WhatsApp Image 2020-12-22 at 12 23 19 PM](https://user-images.githubusercontent.com/76057459/102918242-8e48a800-4454-11eb-97a3-89b5f076b744.jpeg)
