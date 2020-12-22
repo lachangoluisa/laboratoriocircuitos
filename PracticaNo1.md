@@ -53,11 +53,12 @@ Pasos para resolver un circuito
 •	Resolver el sistema de ecuaciones.
 
 •	Encontrar el valor de las corrientes de cada voltaje aplicando la Ley de Ohm.
+![WhatsApp Image 2020-12-22 at 12 04 03 PM](https://user-images.githubusercontent.com/76057459/102918250-9274c580-4454-11eb-908c-4d063822225d.jpeg)
 
 3.-DIAGRAMAS
 
 ![diagrama](https://user-images.githubusercontent.com/76057459/102248205-ed477380-3ece-11eb-9a08-bca356ad8b4e.PNG)
-![WhatsApp Image 2020-12-22 at 12 04 03 PM](https://user-images.githubusercontent.com/76057459/102918250-9274c580-4454-11eb-908c-4d063822225d.jpeg)
+
 Diagrama 3.1: Circuito Resistivo mixto
 
 4.-LISTA DE COMPONENTES
