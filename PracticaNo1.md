@@ -172,7 +172,7 @@ Para poder calcular el error debemos aplicar la siguiente formula
 error%=((Valor teórico-Valor medido)/(Valor teórico))*100%
 porcentaje de error
 
-
+![WhatsApp Image 2020-12-22 at 1 47 43 PM](https://user-images.githubusercontent.com/76057459/102922676-69583300-445c-11eb-983d-bcd986a39351.jpeg)
 6.-DESCRIPCION DE PREREQUISITOS Y CONFIGURACIÓN
 
 •	Tinkercat: Es una herramienta online de Autodesk, que permite la simulación de circuitos, al igual que permite dibujar esquemas circuitales de forma sencilla.
