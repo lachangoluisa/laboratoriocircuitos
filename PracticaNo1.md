@@ -170,17 +170,22 @@ VR_5=3.69 V
 Para poder calcular el error debemos aplicar la siguiente formula
 
 error%=((Valor teórico-Valor medido)/(Valor teórico))*100%
+porcentaje de error
+
 
 6.-DESCRIPCION DE PREREQUISITOS Y CONFIGURACIÓN
 
 •	Tinkercat: Es una herramienta online de Autodesk, que permite la simulación de circuitos, al igual que permite dibujar esquemas circuitales de forma sencilla.
 
 8.-CONCLUCIONES
+se concluye que si una corriente  se divide  en  en dos o mas corrientes ,esta corriente sera igual a la inicial
 
 La clave esta en interpretar correctamente el circuito para extrapolarlo en un sistema de ecuaciones equivalente, que represente la realidad física del comportamiento del mismo.
 
 El voltaje en dos ramas en paralelo siempre es el mismo, con lo cual podemos decir que el voltaje en R1 sera igual al voltaje en R2 que a su vez sera igual al voltaje de la fuente
-
+RECOMENDACIONES
+Para la practica de tinkercad se debe tener en cuenta que la corriente en el multimetro se mide en serie  respecto al elemento
+para medir voltaje en el multimetro se debe realizar en paralelo respecto al elemento a medir
 Colocar bien los signos al recorrer una malla del circuito, una de las reglas mnemotecnias que a mi me da buen resultado es la siguiente.
 
 9.-BIBLIOGRAFIA
